@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to left, #607d8b,#d459cb);
+    display: flex;
+    justify-content: center;
+    height:100vh;
+}
+
+
+
+.wrap{
+    border-radius: 8px;
+    height: 340px;
+    width: 330px;
+    padding: 70px 45px;
+    display: inline-block;
+    color: black;
+    background-color: lightsteelblue;
+}
+#timer{
+    width:220px;
+    height:250px;
+   
+    border-radius: 50%;
+  margin: 0 auto;
+}
+span{
+    font-size: 1em;
+   margin: 20px;
+   color: grey;
+}
+p{
+    margin-top: -70%;
+}
